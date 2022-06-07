@@ -102,23 +102,3 @@ WHERE cost_for_two <= 600 AND location = 'Koramangala'
 ORDER BY rating DESC, cost_for_two DESC LIMIT 10; 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
